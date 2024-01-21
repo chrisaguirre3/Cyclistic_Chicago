@@ -13,6 +13,22 @@ How should Cyclistic refine its marketing strategy to maximize Annual Member con
 
 Determine how casual riders and annual members use Cyclistic bikes differently. Use these insights to provide recommendations on how to tailor Cyclistic’s marketing strategy to maximize annual member conversion.
 
+### The Dataset
+
+- Time Period: APR23 - JUN23
+- Rows: 1,751,035
+- Columns: 13
+
+<table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+  <tr style="margin: 0; padding: 0;">
+    <td style="margin: 0; padding: 0; border: none; align: left;">
+      <img src="Cyclistic Chicago Dataset Variables.png" alt="Dataset Variables" width="600" height="450" style="width:4000px;margin: 0; padding: 0; display: block;"/>
+    </td>
+  </tr>
+</table>
+
+[Link to Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 ### Analysis Plan
 
 1. Import necessary libraries/modules
