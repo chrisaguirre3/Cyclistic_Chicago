@@ -89,10 +89,10 @@ Determine how casual riders and annual members use Cyclistic bikes differently. 
 ### Top Recommendations
 
 1. Determine how Annual Membership could be more attractive for tourists and make requisite additions/changes
-- consider discounted membership rates/promotions for frequent trips to top tourist destinations, on weekends, for longer trips, and for trips during the Summer months
+   - consider discounted membership rates/promotions for frequent trips to top tourist destinations, on weekends, for longer trips, and for trips during the Summer months
 
 2. Direct the majority of marketing communications to tourists and feature top tourist destinations/activities (i.e. the Navy Pier and DuSable Harbor) on the weekends in the Summer months in marketing content
-- it may be helpful to identify and target tourists who visit Chicago more than once per year
+   - it may be helpful to identify and target tourists who visit Chicago more than once per year
   
 3. Implement partnerships with nearby tourist spot establishments for top tourist stations and advertise resulting value-added services/offers for customers who become Members
 
