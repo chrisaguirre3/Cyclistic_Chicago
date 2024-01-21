@@ -22,7 +22,7 @@ Determine how casual riders and annual members use Cyclistic bikes differently. 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
     <td style="margin: 0; padding: 0; border: none; align: left;">
-      <img src="Cyclistic Chicago Dataset Variables.png" alt="Dataset Variables" width="600" height="450" style="width:4000px;margin: 0; padding: 0; display: block;"/>
+      <img src="Cyclistic Chicago Dataset Variables.png" alt="Dataset Variables" width="550" height="450" style="width:4000px;margin: 0; padding: 0; display: block;"/>
     </td>
   </tr>
 </table>
