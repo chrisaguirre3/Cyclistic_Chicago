@@ -44,8 +44,8 @@ Determine how casual riders and annual members use Cyclistic bikes differently. 
 
 ### Repository/Project Files
 
-[Jupyter Notebook]((Jupyter)_Cyclistic_1QTR.ipynb)
-[Presentation Slides]((pdf)_Cyclistic_Slides_Chris%20Aguirre.pdf)
-[Bike Trips Spider Map Interactive Dashboard](https://public.tableau.com/app/profile/chrisaguirre/viz/CyclisticChicagoSpiderMap/Sheet1)
-[Bike Trip Start/End Station Trip Volumes Interactive Dashboard](https://public.tableau.com/app/profile/chrisaguirre/viz/CyclisticChicago_17019761911550/EndStationTripVolumes3QFY23)
-[Jupyter Notebook for Spider Map](DF1%20for%20Spider%20Map_Cyclistic.ipynb)
+- [Jupyter Notebook]((Jupyter)_Cyclistic_1QTR.ipynb)
+- [Presentation Slides]((pdf)_Cyclistic_Slides_Chris%20Aguirre.pdf)
+- [Bike Trips Spider Map Interactive Dashboard](https://public.tableau.com/app/profile/chrisaguirre/viz/CyclisticChicagoSpiderMap/Sheet1)
+- [Bike Trip Start/End Station Trip Volumes Interactive Dashboard](https://public.tableau.com/app/profile/chrisaguirre/viz/CyclisticChicago_17019761911550/EndStationTripVolumes3QFY23)
+- [Jupyter Notebook for Spider Map](DF1%20for%20Spider%20Map_Cyclistic.ipynb)
