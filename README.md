@@ -15,9 +15,9 @@ Determine how casual riders and annual members use Cyclistic bikes differently. 
 
 ### The Dataset
 
-- Time Period: APR23 - JUN23
-- Rows: 1,751,035
-- Columns: 13
+- **Time Period:** APR23 - JUN23
+- **Rows:** 1,751,035
+- **Columns:** 13
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
